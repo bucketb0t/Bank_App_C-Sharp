@@ -1,0 +1,7 @@
+C:\Users\bucketb0t\Desktop\Seby_C#\Visual_Studio\Bank_App\Bank_App\obj\Debug\Bank_App.csproj.AssemblyReference.cache
+C:\Users\bucketb0t\Desktop\Seby_C#\Visual_Studio\Bank_App\Bank_App\obj\Debug\Bank_App.csproj.CoreCompileInputs.cache
+C:\Users\bucketb0t\Desktop\Seby_C#\Visual_Studio\Bank_App\Bank_App\bin\Debug\Bank_App.exe.config
+C:\Users\bucketb0t\Desktop\Seby_C#\Visual_Studio\Bank_App\Bank_App\bin\Debug\Bank_App.exe
+C:\Users\bucketb0t\Desktop\Seby_C#\Visual_Studio\Bank_App\Bank_App\bin\Debug\Bank_App.pdb
+C:\Users\bucketb0t\Desktop\Seby_C#\Visual_Studio\Bank_App\Bank_App\obj\Debug\Bank_App.exe
+C:\Users\bucketb0t\Desktop\Seby_C#\Visual_Studio\Bank_App\Bank_App\obj\Debug\Bank_App.pdb
